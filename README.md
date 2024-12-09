@@ -34,7 +34,7 @@ The bot uses Python and the Discord API to create a seamless experience. Here’
    cd Discord_Bots
    pip install -r requirements.txt
    DISCORDTOKEN2=your_bot_token_here
-   python bot.py
+   python discord_BOT.py
  ### Commands 📝
 - /roast: Roast anyone with a funny line! Just type /roast @username to get started.
   
