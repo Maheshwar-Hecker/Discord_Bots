@@ -1,9 +1,3 @@
-# 🛠️ Polishing Your *Discord_Bots* README
-
-Below is a **ready-to-paste** Markdown upgrade for your “Puneet Superstar Bot” section.
-The rewrite keeps your content but tightens structure, improves readability, and adds visual flair that renders well on GitHub without external assets.
-
-```markdown
 # 🤖 Discord_Bots
 *Python-powered bots that understand desi slang, emote like humans, and keep your server lively.*
 
@@ -87,6 +81,4 @@ MIT – see [`LICENSE`](LICENSE).
 **Thanks for trying Puneet Superstar!** Drop issues, ideas, or just *“Aur roast chahiye”* in the repo discussions. Let’s make Discord more *paisa-vasool* together! 🇮🇳🎉
 ```
 
-Copy-paste the block above into your README.
-It adds tables, icons, fenced code, and consistent headings—making the page look sharp while staying fully Markdown-compliant.
 
